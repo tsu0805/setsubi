@@ -1,0 +1,90 @@
+.header-txt{
+  width: 100%;
+  height: auto;
+  background-image: url(../images/Desktop9.png) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 10%  0;
+}
+
+
+.business-wrapper{
+  width: 80%;
+  text-align: center;
+  margin: 3% auto;
+}
+
+.business-wrapper h2{
+  font-size: 120px;
+  line-height: 3.0;
+}
+
+.business-wrapper strong{
+  border-bottom: solid 10px #1720EC ;
+}
+
+.business-txt{
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.business-txt p{
+  text-align: left;
+}
+
+.business-list__nav{
+  background-color: #D3DDFF;
+  padding: 5% 0;
+}
+
+.business-list__nav__list1{
+  background-color: #A5CEDB;
+  position: relative;
+  width: 60%;
+  top: 5%;
+  left: 10%;
+  display: flex;
+}
+
+.business-list__nav__list1__item1{
+  width: 100%;
+  margin-top: 5%;
+  margin-left: 5%;
+}
+
+.business-list__nav__list1__item1 img{
+  width: 120%;
+  height: 180%;
+}
+
+.business-list__nav__list1__item2{
+  position: relative;
+  top: 50%;
+  left: 20%;
+
+}
+
+.business-list__nav__one{
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  padding: 3%;
+}
+
+.business-list__nav__one__item2{
+  margin-left: 20%;
+  width: 30%;
+}
+
+.business-list__nav__two{
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  padding: 3%;
+}
+
+.business-list__nav__two__item2{
+  margin-left: 20%;
+  width: 30%;
+}

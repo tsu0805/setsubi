@@ -1,0 +1,101 @@
+.header-txt{
+  width: 100%;
+  height: auto;
+  background-image: url(../images/Desktop8.png) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 10%  0;
+}
+
+.company-wrapper{
+  width: 90%;
+  background-color: #F9F3F4;
+  margin: 0 auto;
+  border: solid 3px #333;
+  display: flex;
+}
+
+.company-left{
+  width: 40%;
+  padding: 3% 5% 5% 3%;
+  height: auto;
+}
+
+.company-left img{
+  width: 70%;
+  height: auto;
+  border:solid 5px #333;
+}
+
+.company-right{
+  width: 50%;
+  padding-top: 3%;
+  margin:0 auto
+}
+
+
+.company-right__ttl2{
+ margin: auto;
+}
+
+.company-right__ttl2 h2{
+  font-size: 120px;
+}
+
+.company-right__txt{
+  margin: 10% 2% 3% auto;
+}
+
+.company-right__txt small{
+  color: darkgray;
+  font-size: 48px;
+}
+
+.company-right__txt p{
+  font-size: 80px;
+  line-height: 2.0;
+  font-weight: bold;
+}
+
+.company-info{
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  color: #333;
+  font-size: 120px;
+  padding: 10%;
+}
+
+.company-info small{
+  font-size: 50px;
+  -webkit-text-stroke: 2px #333;
+}
+
+.company-info__list{
+text-align: center;
+}
+
+.company-info__list__item{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border-bottom: solid 3px #333;
+}
+
+.company-info__list__item span{
+  width: 30%;
+  color: #333;
+  line-height: 1.5;
+  padding: 4% 0 4% 2%;
+  font-size: 60px;
+}
+
+.company-info__list__item p{
+  width: 70%;
+  color: #333;
+  line-height: 1.8;
+  font-size: 60px;
+}
+
+
+

@@ -1,0 +1,36 @@
+.footer{
+  margin: 3% 0;
+}
+
+.footer-wrapper{
+  width: 100%;
+  display: flex;
+}
+
+.footer-wrapper__left{
+width: 20%;
+margin-left: 3%;
+}
+
+.footer-wrapper__left p{
+  font-size: 120px;
+}
+
+.footer-wrapper__right{
+  width:70%;
+}
+
+.footer-wrapper__right__list{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 20%;
+}
+
+.footer-wrapper__txt{
+  margin-left: 3%;
+}
+
+.footer-wrapper__end{
+  text-align: center;
+}

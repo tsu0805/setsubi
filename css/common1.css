@@ -1,0 +1,45 @@
+
+
+html {
+  font-size: 48px;
+}
+
+body {
+  line-height: 1.8;
+  letter-spacing: 1px;
+  word-break: break-all;
+  color: #555;
+  letter-spacing:8px;
+  font-weight: 100;
+  font-family:M;
+}
+
+a {
+  text-decoration: none;
+  color: #555;
+}
+
+a:hover{
+  opacity: 0.5;
+}
+
+li {
+  list-style: none;
+}
+
+.section{
+  padding: 3% 0;
+}
+
+.header{
+  width: 100%;
+  margin:0 auto
+}
+
+
+
+.header-txt h1{
+  text-align: center;
+  color: #ffffff;
+  font-size: 150px;
+}

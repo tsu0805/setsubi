@@ -27,13 +27,19 @@
 
 .works-list__nav__item{
   width: 20%;
-  height: 100%;
+  height: 300px;
   background-color: #35399B;
   background-size: cover;
   border-radius: 50%;
   color: #ffffff;
   text-align: center;
 }
+
+.works-list__nav__item p{
+  margin: 5%;
+  padding-top:10%; 
+}
+
 
 .works2{
   width: 100%;

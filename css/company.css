@@ -19,11 +19,12 @@
   width: 40%;
   padding: 3% 5% 5% 3%;
   height: auto;
+  text-align: center;
 }
 
 .company-left img{
-  width: 70%;
-  height: auto;
+  width: 100%;
+  height: 100%;
   border:solid 5px #333;
 }
 

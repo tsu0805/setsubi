@@ -112,7 +112,7 @@
 
 
 .business-wrapper__left1{
-  width: 40%;
+  width: 32vw;
   margin-left:5%;
 }
 
@@ -152,7 +152,7 @@
 .business-wrapper__list__up__txt{
   width: 50%;
   margin:1% auto;
-  font-size: 1rem;
+  font-size: 1.2vw;
   border: solid 1px #333;
   padding: 5%;
   background-color: #ffffff;

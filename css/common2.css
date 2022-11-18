@@ -13,7 +13,7 @@ margin-left: 3%;
 }
 
 .footer-wrapper__left p{
-  font-size: 120px;
+  font-size: 3.3vw;
 }
 
 .footer-wrapper__right{
@@ -25,12 +25,15 @@ margin-left: 3%;
   justify-content: space-around;
   align-items: center;
   margin-left: 20%;
+  font-size: 2.0vw;
 }
 
 .footer-wrapper__txt{
   margin-left: 3%;
+  font-size: 1.8vw;
 }
 
 .footer-wrapper__end{
   text-align: center;
+  font-size: 1.0vw;
 }

@@ -37,3 +37,18 @@ margin-left: 3%;
   text-align: center;
   font-size: 1.0vw;
 }
+
+.header-list{
+  width: 100%;
+  position: fixed;
+  display: flex;
+  justify-content: space-around;
+  top: 0;
+  background-color: #d0cece;
+  padding: 2% auto;
+}
+
+.header-list__item a{
+  color: #333;
+  font-size: 1.4vw;
+}

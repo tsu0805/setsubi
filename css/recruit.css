@@ -17,8 +17,8 @@
 }
 
 .recruit-wrapper__left img{
-  width: 100%;
-  height: 100%;
+  width: 40vw;
+  height: 52vh;
 }
 
 .recruit-wrapper__right{
@@ -29,11 +29,11 @@
 
 .recrui-wrapper__right__ttl{
   line-height: 2.0;
-  font-size: 80px;
+  font-size: 1.9vw;
 }
 
 .recrui-wrapper__right__ttl h2{
-  font-size: 120px;
+  font-size: 2.2vw;
   padding-bottom: 5%;
 }
 
@@ -52,7 +52,7 @@
 
 .recruit-main h2{
 padding-bottom: 5%;
-font-size: 120px;
+font-size: 3.0vw;
 }
 
 .recruit-main__list{
@@ -69,7 +69,7 @@ font-size: 120px;
 }
 
 .recruit-main__list__item1 img{
-  width: 80%;
+  width: 20vw;
   border-radius: 50%;
   border: solid 3px #333;
 }
@@ -82,7 +82,7 @@ font-size: 120px;
 
 .recruit-main__list__item1 p{
   padding: 5%;
-  font-size: 60px;
+  font-size: 1.9vw;
   font-weight: bold;
 }
 
@@ -91,7 +91,7 @@ margin: 5% 0;
 }
 
 .recruit-sub p{
-  font-size: 60px;
+  font-size: 1.9vw;
 }
 .btn{
   width: 20%;

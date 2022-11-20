@@ -15,7 +15,7 @@
 }
 
 .business-wrapper h2{
-  font-size: 120px;
+  font-size: 3.3vw;
   line-height: 3.0;
 }
 
@@ -24,13 +24,14 @@
 }
 
 .business-txt{
-  width: 40%;
+  width: 50%;
   margin: 0 auto;
   text-align: center;
 }
 
 .business-txt p{
   text-align: left;
+  font-size: 1.2vw;
 }
 
 .business-list__nav{
@@ -65,15 +66,19 @@
 
 .business-list__nav__one__item1 img{
   width: 50%;
-  height: 500px;
+  height: 20.5vh;
   object-fit: cover;
 
 }
 
 .business-list__nav__one__item2{
   margin-right: auto;
-  width: 30%;
+  width: 40%;
+  font-size: 1.2vw;
 }
+
+
+
 
 .business-list__nav__two{
   display: flex;
@@ -86,7 +91,8 @@
 
 .business-list__nav__two__item2{
   margin-right: auto;
-  width: 30%;
+  width: 40%;
+  font-size: 1.2vw;
 }
 
 .colors{

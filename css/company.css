@@ -45,7 +45,7 @@
 }
 
 .company-right__ttl2 p{
-  font-size: 1.5vw;
+  font-size: 1.2vw;
 }
 
 .company-right__txt{
@@ -72,8 +72,12 @@
   padding: 10%;
 }
 
+.company-info h2{
+  line-height: 0.5;
+}
+
 .company-info small{
-  font-size: 2.2vw;
+  font-size: 1.2vw;
   -webkit-text-stroke: 2px #333;
 }
 

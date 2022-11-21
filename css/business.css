@@ -77,6 +77,9 @@
   font-size: 1.2vw;
 }
 
+.business-list__nav__one__item2 h3{
+  font-size: 1.5vw;
+}
 
 
 
@@ -95,6 +98,9 @@
   font-size: 1.2vw;
 }
 
+.business-list__nav__two__item2 h3{
+  font-size: 1.5vw;
+}
 .colors{
   position: absolute;
   background-color: #A5CEDB;

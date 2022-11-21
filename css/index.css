@@ -277,7 +277,7 @@
 
 .works-wrapper__right1{
   display: flex;
-  margin: 2% ;
+  margin:0 2%;
   align-items: center;
 }
 .works-wrapper__right1__img img{
@@ -288,9 +288,8 @@
 }
 
 .works-wrapper__right1__img{
-  margin: 2%;
+  margin:0 2%;
 }
-
 
 .works-wrapper__right1__txt{
   width: 80%;

@@ -285,6 +285,7 @@
   border: solid 3px #333;
   margin: 2% auto;
   height: 20vh;
+  width: 20vh;
 }
 
 .works-wrapper__right1__img{
@@ -332,6 +333,7 @@ font-size: 1.7vw;
   border: solid 3px #333;
   margin: 2% auto;
   height: 20vh;
+  width: 20vh;
 }
 
 .works-wrapper__right2__txt{
@@ -373,6 +375,7 @@ font-size: 64px;
   border: solid 3px #333;
   margin: 2% auto;
   height: 20vh;
+  width: 20vh;
 }
 
 

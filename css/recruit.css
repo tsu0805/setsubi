@@ -7,7 +7,7 @@
 }
 
 .recruit-wrapper{
-  width: 100%;
+  width: 90%;
   margin: 3% 5%;
   display: flex;
 }
@@ -71,6 +71,7 @@ font-size: 3.0vw;
 
 .recruit-main__list__item1 img{
   width: 20vw;
+  height: 20vw;
   border-radius: 50%;
   border: solid 3px #333;
 }
@@ -95,11 +96,11 @@ margin: 5% 0;
   font-size: 1.2vw;
 }
 .btn{
-  width: 20%;
+  width: 15%;
   background-color: #35399B;
-  border-radius: 5%;
+  border-radius: 15%;
   border: solid 5px #ffffff;
-  padding: 2% 4%;
+  padding: 1% 3%;
   font-weight: bold;
   margin-right: auto;
   text-align: center;
@@ -108,4 +109,13 @@ margin: 5% 0;
 
 .btn a{
   color: #ffffff;
+}
+
+/* .recruit{
+  display: none;
+} */
+
+.header-list__item a{
+  color: #333;
+  font-size: 1.4vw;
 }

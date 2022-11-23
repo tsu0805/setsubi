@@ -107,5 +107,8 @@ font-size: 1.8vw;
   
 }
 
-
+.header-list__item a{
+  color: #555;
+  font-size: 1.4vw;
+}
 

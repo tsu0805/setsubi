@@ -104,9 +104,14 @@
 .colors{
   position: absolute;
   background-color: #A5CEDB;
-  width: 80%;
+  width: 100%;
   height: 70%;
   top: 2%;
   left: 2%;
   z-index: -1;
+}
+
+.header-list__item a{
+  color: #999;
+  font-size: 1.4vw;
 }

@@ -7,7 +7,6 @@
   padding: 10%  0;
 }
 
-
 .business-wrapper{
   width: 80%;
   text-align: center;
@@ -15,7 +14,7 @@
 }
 
 .business-wrapper h2{
-  font-size: 3.3vw;
+  font-size: 3rem;
   line-height: 3.0;
 }
 
@@ -31,7 +30,7 @@
 
 .business-txt p{
   text-align: left;
-  font-size: 1.2vw;
+  font-size: 1.2rem;
 }
 
 .business-list__nav{
@@ -64,6 +63,10 @@
   z-index: 2;
 }
 
+.business-list__nav__one__item1{
+  z-index: 2;
+}
+
 .business-list__nav__one__item1 img{
   width: 50%;
   height: 20.5vh;
@@ -73,14 +76,10 @@
 
 .business-list__nav__one__item2{
   margin-right: auto;
-  width: 40%;
-  font-size: 1.2vw;
+  width: 60%;
+  font-size: 1.2rem;
+  z-index: 2;
 }
-
-.business-list__nav__one__item2 h3{
-  font-size: 1.5vw;
-}
-
 
 
 .business-list__nav__two{
@@ -94,12 +93,13 @@
 
 .business-list__nav__two__item2{
   margin-right: auto;
-  width: 40%;
-  font-size: 1.2vw;
+  width: 60%;
+  font-size: 1.2rem;
+  z-index: 2;
 }
 
 .business-list__nav__two__item2 h3{
-  font-size: 1.5vw;
+  font-size: 1.3rem;
 }
 .colors{
   position: absolute;
@@ -108,10 +108,10 @@
   height: 80%;
   top: 2%;
   left: 2%;
-  z-index: -1;
+  z-index: 1;
 }
 
 .header-list__item a{
   color: #444;
-  font-size: 1.4vw;
+  font-size: 1.2rem;
 }

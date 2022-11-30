@@ -41,12 +41,12 @@
 }
 
 .company-right__ttl2 h2{
-  font-size: 2.5vw;
+  font-size: 2.5rem;
   margin-bottom: 25px;
 }
 
 .company-right__ttl2 p{
-  font-size: 1.2vw;
+  font-size: 1.2rem;
   padding: 2% 0;
 }
 
@@ -57,11 +57,11 @@
 .company-right__txt small{
   display: block;
   color: darkgray;
-  font-size: 1.2vw;
+  font-size: 1.2rem;
 }
 
 .company-right__txt p{
-  font-size: 1.8vw;
+  font-size: 2.0rem;
   line-height: 2.0;
   font-weight: bold;
 }
@@ -71,7 +71,7 @@
   margin: 0 auto;
   text-align: center;
   color: #333;
-  font-size: 3.3vw;
+  font-size: 3rem;
   padding: 10%;
 }
 
@@ -80,38 +80,38 @@
 }
 
 .company-info small{
-  font-size: 1.2vw;
+  font-size: 1.2rem;
   -webkit-text-stroke: 2px #333;
 }
 
 .company-info__list{
 text-align: center;
-font-size: 1.8vw;
+font-size: 1.2rem;
+margin: 2% auto;
 }
 
 .company-info__list__item{
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  border-bottom: solid 3px #333;
+  border-bottom: solid 2px #333;
 }
 
 .company-info__list__item span{
   width: 30%;
   color: #333;
   line-height: 1.5;
-  padding: 3% 0 3% 2%;
+  padding: 1% 0 1% 2%;
 }
 
 .company-info__list__item p{
   width: 70%;
   color: #333;
   line-height: 1.8;
-  
 }
 
 .header-list__item a{
   color: #444;
-  font-size: 1.4vw;
+  font-size: 1.2rem;
 }
 

@@ -1,7 +1,7 @@
 
 
 html {
-  font-size: 48px;
+  font-size: 16px;
 }
 
 body {
@@ -9,7 +9,7 @@ body {
   letter-spacing: 1px;
   word-break: break-all;
   color: #555;
-  letter-spacing:8px;
+  letter-spacing:6px;
   font-weight: 100;
   font-family:M;
 }
@@ -41,5 +41,5 @@ li {
 .header-txt h1{
   text-align: center;
   color: #ffffff;
-  font-size: 150px;
+  font-size: 4rem;
 }

@@ -43,3 +43,42 @@ li {
   color: #ffffff;
   font-size: 4rem;
 }
+
+.header-wrapper {
+  display: flex;
+  width: 100%;
+  background-color: white;
+}
+
+.header-wrapper1__left {
+  width: 40%;
+  margin-left: 3%;
+  display: flex;
+  align-items: center;
+}
+
+
+.header-wrapper1__left h1 {
+  font-size: 3rem;
+  color: #333;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header-wrapper1__right {
+  width: 60%;
+  padding: 1%;
+  display: flex;
+  align-items: center;
+}
+
+.header-wrapper1__right__list {
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+}
+
+.header-wrapper1__right__list__item {
+  text-align: left;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin: 0 10px;}
